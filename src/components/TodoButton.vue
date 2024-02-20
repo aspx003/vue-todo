@@ -1,6 +1,4 @@
-<script setup>
-
-</script>
+<script setup></script>
 
 <template>
   <button>
@@ -12,5 +10,6 @@
 button {
   padding: 8px 16px;
   border: none;
+  cursor: pointer;
 }
 </style>
